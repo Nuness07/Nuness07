@@ -5,7 +5,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuness07&show_icons=true&theme=dracula)
 
-### Hard Skills
+## Hard Skills
 
 <div style="display: inline_block">
   <br />
