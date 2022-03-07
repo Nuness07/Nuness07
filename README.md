@@ -1,6 +1,5 @@
 ### Olá , me chamo Gabriel e sou um Desenvolvedor Front-End 🙂 / Hello, my name is Gabriel and I'm a Front-End Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gabrielnunesdev.com.br)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nunes-01a4bb168/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielnmf)
 
